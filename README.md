@@ -1,1 +1,0 @@
-Molipoli Cloudflare Worker starter. Deploy with Wrangler; Durable Objects + WebSocket are used for multiplayer.
